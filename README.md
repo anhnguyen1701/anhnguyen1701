@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhnguyen1701&theme=default&langs_count=99&layout=compact&hide=css,html" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhnguyen1701&theme=default&langs_count=99&layout=compact&hide=css,html&card_width=580" align = "center"/>
 </p>
 
